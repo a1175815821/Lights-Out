@@ -23,4 +23,4 @@
 
 1. 克隆此仓库到本地：
    ```bash
-   git clone [你的仓库地址]
+   git clone [https://github.com/a1175815821/Lights-Out]
